@@ -30,4 +30,6 @@ add(num1=0,num2=0){
 }
 
 //required so data is visible externally
+// Calculator.js
+
 module.exports = Calculator;
